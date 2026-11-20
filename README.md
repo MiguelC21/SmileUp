@@ -59,4 +59,4 @@ Copy it to your VST3 folder:
 ---
 
 ## 📄 License
-MIT License. Created by [Miguel Carreño](https://github.com/miguelcarreno-source).
+MIT License. Created by [Miguel Carreño](https://github.com/MiguelC21).

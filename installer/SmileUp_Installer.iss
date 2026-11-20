@@ -2,7 +2,7 @@
 #define MyAppName "SmileUp"
 #define MyAppVersion "1.0.0"
 #define MyAppPublisher "SmileUp Audio"
-#define MyAppURL "https://github.com/miguelcarreno-source/SmileUp"
+#define MyAppURL "https://github.com/MiguelC21/SmileUp"
 
 [Setup]
 AppId={{E5D90F57-8C8B-4C82-95C7-3FE7314CEB7D}
