@@ -1,0 +1,30 @@
+# Build directories
+build/
+target/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled binaries
+*.vst3
+*.clap
+*.dll
+*.so
+*.dylib
+*.pdb
+*.exp
+*.lib
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
