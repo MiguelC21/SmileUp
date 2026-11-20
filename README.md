@@ -6,6 +6,15 @@ Built with **C++** and the **JUCE framework**, SmileUp delivers pristine audio q
 
 ---
 
+## 💾 Download & Install
+
+You can install SmileUp directly using the precompiled Windows installer:
+- 📦 **[Download SmileUp_Setup_v1.0.0.exe](installer/SmileUp_Setup_v1.0.0.exe)**
+
+Just run the installer, and it will place `SmileUp.vst3` directly into your system's VST3 directory.
+
+---
+
 ## ✨ Features
 
 - **Master Tension Knob (0% – 110%)**:

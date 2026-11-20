@@ -24,6 +24,9 @@ Makefile
 *.exp
 *.lib
 
+# Track release installer
+!installer/*.exe
+
 # OS / Editor files
 .DS_Store
 Thumbs.db
