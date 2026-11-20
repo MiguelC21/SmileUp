@@ -3,6 +3,7 @@ build/
 target/
 bin/
 obj/
+installer/output/
 .vs/
 *.user
 *.suo
